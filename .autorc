@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "ravimanxx",
+  "repo": "container-abe43-u",
+  "name": "ravimanxx",
+  "email": "charsiravi+github@gmail.com",
+}
